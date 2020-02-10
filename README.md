@@ -1,3 +1,5 @@
+The Famous Iris Dataset:
+
 The following represents my learning process while considering the famous iris dataset.  The dataset consists of 150 samples of various measurements of iris flowers and their species (setosa, versicolor, virginica).  The measurements are sepal width, sepal length, petal width and petal length.  The problem is to create a classification model that will predict the species given the four feature measurements.  The file 'iris data analysis.ipynb' was created using Google's Colaboratory, which is very similar to the Jupyter Notebook.  The file should run easily in either and the iris dataset comes included with scikitlearn.
 
 The following dependencies are included.
